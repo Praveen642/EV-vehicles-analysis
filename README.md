@@ -16,19 +16,25 @@ Energy consumption and CO₂ savings.
 🔍 Steps Performed
 
 Data Collection
+
 Imported raw EV dataset into Power BI.
 
 Data Cleaning
+
 Removed duplicates and handled missing values using Power Query.
 
 Data Transformation
+
 Created relationships between tables (vehicle specs, registrations, charging stations).
 
 Data Modeling
+
 Added calculated columns and measures using DAX for metrics like total EVs, average range, and growth rate.
 
 Visualization Development
+
 Designed interactive visuals (maps, bar charts, KPIs, slicers) for user-friendly exploration.
 
 Dashboard Design
+
 Organized visuals into a cohesive, story-driven dashboard layout.
